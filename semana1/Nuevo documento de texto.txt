@@ -1,0 +1,3 @@
+Commit: puntos de restauración
+master o main: es la rama principal de trabajo
+git init: inicia el repositorio
