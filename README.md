@@ -40,4 +40,4 @@ git push origin main
 git pull origin main
 ```
 
--Sirve para bajar los cambios hechos en github.com
+- Sirve para bajar los cambios hechos en github.com
