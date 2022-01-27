@@ -34,10 +34,3 @@ git commit -m "comentario"
 git push origin main
 ```
 - Sirve para poder subir los cambios a nuestro repositorio en la nube, en este caso github
-
-
-```
-git pull origin main
-```
-
-- Sirve para bajar los cambios hechos en github.com
